@@ -1,0 +1,12 @@
+I usedcreate-react-app to help us bootstrap the React App for us.
+"npm install create-react-app"
+
+Running the above command would install create-react-app in our project. Now, this would be ready for use.
+
+To create a new project named ‘todo’, we would run the command as follows:
+"create-react-app todo"
+Now, this would create a folder named ‘todo’ in our current repository. Next, we should move inside the todo folder by doing:
+"npm install react-bootstrap bootstrap"
+
+Running the above command will install both react-bootstrap and bootstrap libraries in our application.
+Now, we are ready to build the app.
